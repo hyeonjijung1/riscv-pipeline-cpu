@@ -38,7 +38,7 @@ A modular, synthesizable CPU core implementing the RV32I ISA in Verilog with a c
 ##  How to Demo
 
  **Open in EDA-Playground** (no local tools required)  
-   - Use Icarus Verilog + GTKWave configuration  
+   - Use Icarus Verilog + EPWave configuration  
    - Paste the **entire Verilog design + testbench** into the left pane  
    - Run and capture the waveform  
 
