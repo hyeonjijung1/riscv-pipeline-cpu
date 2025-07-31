@@ -39,7 +39,7 @@ A modular, synthesizable CPU core implementing the RV32I ISA in Verilog with a c
 
 Captured from EDA-Playground’s GTKWave, this shows how control signals, immediates, and register addresses flow through the ID→EX boundary:
 
-![ID→EX Waveform](docs/waveforms/id_ex_stage_waveform.png)
+![ID→EX Waveform]([docs/waveforms/id_ex_stage_waveform.png](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/waveforms/ID_EX_pipeline.png))
 
 | Signal               | Description                                                      |
 |----------------------|------------------------------------------------------------------|
