@@ -31,9 +31,9 @@ A modular, synthesizable CPU core implementing the RV32I ISA in Verilog with a c
 ##  Waveforms 
 
 
-- Captured from EDA-Playground’s GTKWave showing program counter, fetched instruction, and IF/ID registers over time:
+ Captured from EDA-Playground’s GTKWave showing program counter, fetched instruction, and IF/ID registers over time:
 
-- ![IF Stage Waveform](https://raw.githubusercontent.com/hyeonjijung1/riscv-pipeline-cpu/main/docs/waveforms/if_stage_waveform.png)
+ ![IF Stage Waveform](https://raw.githubusercontent.com/hyeonjijung1/riscv-pipeline-cpu/main/docs/waveforms/if_stage_waveform.png)
 ---
 ##  How to Demo
 
