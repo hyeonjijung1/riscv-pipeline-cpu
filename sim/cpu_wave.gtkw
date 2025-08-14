@@ -1,0 +1,85 @@
+[*] GTKWave Analyzer Save File
+[dumpfile] "cpu_wave.vcd"
+[savefile] "cpu_wave.gtkw"
+[timestart] 0
+[size] 1400 900
+[pos] -1 -1
+[treeopen] cpu_tb
+[treeopen] cpu_tb.dut
+[sst_width] 227
+[signals_width] 300
+[sst_expanded] 1
+[sst_vpaned_height] 300
+
+[signals]
+@28
+cpu_tb.clk
+cpu_tb.reset
+@200
+@28
+cpu_tb.dut.pc_curr
+cpu_tb.dut.pc_next_nominal
+cpu_tb.dut.pc_next_mux
+cpu_tb.dut.pc_plus4_if
+cpu_tb.dut.pc_plus4_id
+cpu_tb.dut.pc_plus4_ex
+@200
+@28
+cpu_tb.dut.instr_if_raw
+cpu_tb.dut.instr_if_mux
+cpu_tb.dut.instr_id
+@200
+@28
+cpu_tb.dut.Branch_c
+cpu_tb.dut.MemRead_c
+cpu_tb.dut.MemToReg_c
+cpu_tb.dut.MemWrite_c
+cpu_tb.dut.ALUSrc_c
+cpu_tb.dut.RegWrite_c
+cpu_tb.dut.ALUOp_c[1:0]
+@200
+@28
+cpu_tb.dut.control_mux
+cpu_tb.dut.forwardA[1:0]
+cpu_tb.dut.forwardB[1:0]
+@200
+@28
+cpu_tb.dut.rs1_ex[31:0]
+cpu_tb.dut.rs2_ex[31:0]
+cpu_tb.dut.imm_ex[31:0]
+cpu_tb.dut.rd_ex[4:0]
+@200
+@28
+cpu_tb.dut.alu_srcA[31:0]
+cpu_tb.dut.alu_srcB[31:0]
+cpu_tb.dut.alu_ctrl_ex[2:0]
+cpu_tb.dut.alu_result_ex[31:0]
+@200
+@28
+cpu_tb.dut.take_branch_ex
+cpu_tb.dut.branch_taken_actual_ex
+cpu_tb.dut.branch_target_ex[31:0]
+cpu_tb.dut.bp_predict_taken
+@200
+@28
+cpu_tb.dut.MemRead_mem
+cpu_tb.dut.MemWrite_mem
+cpu_tb.dut.MemToReg_mem
+cpu_tb.dut.RegWrite_mem
+cpu_tb.dut.alu_result_mem[31:0]
+cpu_tb.dut.write_data_mem[31:0]
+cpu_tb.dut.read_data_mem[31:0]
+cpu_tb.dut.rd_mem[4:0]
+@200
+@28
+cpu_tb.dut.MemToReg_wb
+cpu_tb.dut.RegWrite_wb
+cpu_tb.dut.alu_result_wb[31:0]
+cpu_tb.dut.mem_data_wb[31:0]
+cpu_tb.dut.write_back_data[31:0]
+cpu_tb.dut.rd_wb[4:0]
+
+@cursormode 0
+@zoom 1
+@base 10
+@highlight None
