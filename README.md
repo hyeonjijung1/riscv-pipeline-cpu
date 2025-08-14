@@ -118,11 +118,6 @@ The design is **waveform-verified** using GTKWave and runs real RISC-V programs 
 4. Click **Run** and open **EPWave** to view the pipeline in GTKWave  
 
 ---
-<<<<<<< HEAD
-=======
-##  IF stage Waveforms 
->>>>>>> ea917cfa33aaa53243c011fa325da1d124e55b0d
-
 ## Demo Program
 
 The sample program loaded in `program.hex`:
