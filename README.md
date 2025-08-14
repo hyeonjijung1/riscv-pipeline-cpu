@@ -13,7 +13,7 @@
 ---
 ## System Architecture – Hero View  
 
-| ![Pipeline Block Diagram](docs/block_diagram.png) |  
+| ![Pipeline Block Diagram](docs/bd.png) |  
 | --- |  
 | *Classic 5-stage pipeline with hazard detection and forwarding.* | 
 
