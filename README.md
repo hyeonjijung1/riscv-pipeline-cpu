@@ -137,8 +137,9 @@ addi x5, x0, 42
 
 
 ## About Me  
-Hi! I’m Hyeonji Jung — an Electrical & Computer Engineering student at the University of Toronto passionate about hardware design, embedded systems, and digital logic.  
+Hi! I’m Diana Jung — an Electrical & Computer Engineering student at the University of Toronto passionate about hardware design, embedded systems, and digital logic.  
 I love building **from schematic to working system**, blending low-level coding with hardware verification.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hyeonjijung)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/hyeonjijung1)
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyeonji%20Jung-blue?logo=linkedin)](https://www.linkedin.com/in/dianajung-uoft/)  
+[![Email](https://img.shields.io/badge/Email-dianajunguoftece%40gmail.com-red?logo=gmail)](mailto:dianajunguoftece@gmail.com)
