@@ -154,4 +154,4 @@ Hi! I’m Hyeonji Jung — an Electrical & Computer Engineering student at the U
 I love building **from schematic to working system**, blending low-level coding with hardware verification.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hyeonjijung)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)]
+[![GitHub]](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)
